@@ -1,0 +1,11 @@
+10
+Luke Skywalker 3.9
+Princess Leia 4.0
+Han Solo 2.67
+Rey ? 3.95
+Poe Dameron 3.25
+Finn (FN2187) 3.67
+Jynn Erso 3.5
+Darth Vader 2.25
+Kylo Ren 1.67
+R2 D2 4.0
